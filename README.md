@@ -1,7 +1,7 @@
 ### Hello. 👋
 
 - 🔭 I’m currently working on university degree, and https://github.com/UCMendes/Calculator-test during spare time.
-- 🌱 Aiming to strengthen my knowledge on python and the Django framework.
+- 🌱 Aiming to strengthen my knowledge on python.
 - 🤔 I’m looking for more ideas I can take up as practice projects.
 - 📫 How to reach me: here or on linkedin.
 - 😄 Pronouns: he/him
@@ -12,7 +12,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on university degree, and https://github.com/UCMendes/Calculator-test during spare time.
-- 🌱 I’m currently strengthening my knowledge on python and the Django framework.
+- 🌱 I’m currently strengthening my knowledge on python.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for more ideas I can take up as practice projects.
 - 💬 Ask me about ...
