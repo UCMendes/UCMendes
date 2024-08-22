@@ -1,6 +1,6 @@
 ### Hello. 👋
 
-- 🔭 I’m currently working on university degree, and https://github.com/UCMendes/Calculator-test during spare time.
+- 🔭 I’m currently working on my university degree, and https://github.com/UCMendes/Calculator-test during spare time.
 - 🌱 Aiming to strengthen my knowledge on python.
 - 🤔 I’m looking for more ideas I can take up as practice projects.
 - 📫 How to reach me: here or on linkedin.
